@@ -1,0 +1,6 @@
+Streamlit
+Pandas
+PandasAI
+Matplotlib
+Seaborn
+pyyaml
